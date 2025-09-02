@@ -1,0 +1,5 @@
+id, email, contraseña, nombre, rolId
+1, indio@correo.com, indio123, Indio Patirrajao, administrador
+2, camilo456@correo.com, 123456789, Camilo Regueros, empleado
+3, kratos2005@correo.com, olimpo, Kratos Dios de la Guerra, empleado
+4, Lara96@correo.com, tomboRaider789, Lara Croft, empleado
